@@ -5,7 +5,7 @@ After creating a sorting algorithm visualiser, I decided the next coolest thing 
 
 ## Installation
 ***If*** you would like to contribute (adding new algorithms should be really trivial, just make sure to call the draw function each time you
-cary out a swap, the menu is a little bit messy but it's basically all in a switch statement) you will need to download SFML. 
+dequeue an item from the queue which stores all grid items, the menu is a little bit messy but it's basically all in a switch statement) you will need to download SFML. 
 
 I recommend following ***[this tutorial](https://youtu.be/YfMQyOw1zik)*** to get it running on a simple boilerplate project for the first time, and then linking the dependencies with this project once you've 
 cloned my repo to your computer. 
