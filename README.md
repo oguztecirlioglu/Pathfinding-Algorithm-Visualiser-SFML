@@ -22,7 +22,7 @@ If I have time, I would like to do the following:
 - [ ] Implement the option to add weights on the 2D Grid Map for weighted pathfinding algorithms.
 - [ ] Add some text during the grid selection process (currently, green represents home, and blue is target. Although you would never know, because the algorithm doesnt care about that really.)
 
-## GIF of the sorting visualiser!
+## GIF of the pathfinding visualiser!
 
 
 ![](pathfind-demonstration.gif)
